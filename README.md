@@ -1,1 +1,1 @@
-# data-platform-henrik-sjogren-de24
+# learning data platforms
